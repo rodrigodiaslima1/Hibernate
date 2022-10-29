@@ -2,7 +2,7 @@
 
 
 <img src="https://labs.bluesoft.com.br/wp-content/uploads/2017/03/JPAHibernate.jpg" width="200">
-<h1>Hibernate (and JPA)</h1>
+<h1></h1>
 
 <p><em>
   Repository dedicated to the content related to the implementation of Hibernate<br> 
